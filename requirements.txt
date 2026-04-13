@@ -14,3 +14,5 @@ ipykernel
 langchain_google_genai
 langchain-openai
 nltk
+beautifulsoup4 
+lxml
